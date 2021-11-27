@@ -1,0 +1,130 @@
+.carregris {
+    padding: 2rem 1rem;
+    margin-top: 2rem;
+    background-color: #e9ecef;
+    border-radius: 0.3rem;
+}
+
+body {
+    background-color: #E9ECEF;
+    font-family: 'Philosopher', sans-serif;
+}
+
+
+h2 {
+    font-family: 'Tangerine', cursive;
+}
+
+
+
+.carre-transi-blanc-orange {
+    background: linear-gradient( #ffffff, #ff8100);
+    color: black;
+    padding: 2rem;
+}
+
+.carre-transi-blanc-bleu {
+    background: linear-gradient( #ffffff, #18B9EF);
+    color: black;
+    padding: 2rem;
+}
+
+.carreorange {
+    background-color: #ff8100;
+    color: black;
+    padding: 2rem;
+}
+
+.carrebleu {
+    background-color: #18B9EF;
+    color: black;
+    padding: 1rem;
+}
+
+.carreblanc {
+    background-color: #FFFFFF;
+    color: black;
+    padding: 2rem;
+}
+
+.boutonnoir {
+    background-color: #343A40;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+.boutongris {
+    background-color: #e9ecef;
+    border: none;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+.espace {
+    padding-top: 50px;
+}
+
+.petit-espace {
+    padding-top: 25px;
+}
+
+.milieu {			
+    position: absolute;
+    left: 50%;
+    top: 50%;
+}
+
+.carrenoirr {
+    padding: 2rem 1rem;
+    margin-top: 2rem;
+    background-color: #343A40;
+    color: white;
+}
+
+button {
+    cursor: pointer; 
+}
+
+.img-cercle {
+    border-radius: 50%;
+}
+
+.jumbotron {
+  padding: 2rem 1rem;
+  margin-bottom:0.01rem;
+  background-color: #ffffff;
+  border-radius: 0.3rem;
+}
+.bg-bleu {
+  background-color: #0552AC !important;
+}
+
+.footer-noir {
+  background-color: #353942;
+}
+
+.couleurblanc {
+  color: white;
+}
+.contact{
+    width: 100%;
+}
+
+.positionConnection
+{
+    position: absolute;
+    width: 200%;
+}
+.ecriture input{
+	border :0px;
+	background-color:transparent;
+}
